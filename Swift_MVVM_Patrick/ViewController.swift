@@ -26,6 +26,9 @@ class ViewController: UIViewController {
     
         let view = viewCarousel.instanceFromNib()
         self.aViewBottom.addSubview(view)
+
+        
+        
         
         // Data Passing Usning Block
  
